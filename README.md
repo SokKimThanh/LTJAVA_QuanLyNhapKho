@@ -1,9 +1,10 @@
-# QuanLyNhapKho
+# Quản lý nhập kho
 https://studio.youtube.com/video/ovg21mEmj90/edit
+=
 Chú ý: Phân bổ thời gian để làm được 1 chức năng add rất quan trọng, sau đó hãy copy sao chép hàm add để cho ra chức năng edit và remove thật nhanh để có điểm 6 hoặc hơn với thời gian tối đa là 90 phút của bài thi
-- ========================
-- Nội dung video theo thời gian
-- ========================
+=
+Nội dung video theo thời gian
+=
 - 00:00 Các phần trong đề thi, thứ tự làm bài
 - 04:00 Khởi tạo lớp cơ sở
 - 08:00 Tạo Unit Test Constructor, Thành Tiền
@@ -21,5 +22,6 @@ Chú ý: Phân bổ thời gian để làm được 1 chức năng add rất qua
 - 01:29:00 Viết thông báo lỗi edit remove
 - 01:31:00 Thử nghiệm ứng dụng thêm xóa sửa
 - 01:34:27 Tổng kết, lời cuối kinh nghiệm khi làm bài
-========================
+
 Cảm ơn tất cả mọi người! Mọi người làm bài tốt nha!
+=
