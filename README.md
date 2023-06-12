@@ -29,3 +29,4 @@
 
 Cảm ơn tất cả mọi người! Mọi người làm bài tốt nha!
 =
+![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/c1770e0f-3c88-4f8a-bc69-4004af2722e6)
