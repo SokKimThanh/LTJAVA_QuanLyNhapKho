@@ -1,4 +1,6 @@
-# Quản lý nhập kho JTable
+# Quản lý nhập kho JTable (Tài liệu tham khảo)
+# Quản lý nhâp kho Textaread (Tài liệu tham khảo)
+# Quản lý nhập kho theo trạng thái của video
 https://studio.youtube.com/video/ovg21mEmj90/edit
 =
 Chú ý: Phân bổ thời gian để làm được 1 chức năng add rất quan trọng, sau đó hãy copy sao chép hàm add để cho ra chức năng edit và remove thật nhanh để có điểm 6 hoặc hơn với thời gian tối đa là 90 phút của bài thi
