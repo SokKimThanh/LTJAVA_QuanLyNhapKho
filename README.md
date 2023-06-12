@@ -1,12 +1,15 @@
 ![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/0a1bc3e0-fba8-411b-b12e-522cdef1db0a)
 # Quản lý nhập kho theo trạng thái của video! https://youtu.be/ovg21mEmj90
-![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/8c036326-b150-4441-9d10-f16428f756a1)
-![image](https://github.com/SokKimThanh/QuanLyNhapKhoJTable/assets/20368186/fdf6a9e2-f2f4-4147-934a-33fe8646fb7c) ![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/217a57f7-b4ec-4ddd-b795-b8873ecef2ed)
+![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/8c036326-b150-4441-9d10-f16428f756a1)![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/217a57f7-b4ec-4ddd-b795-b8873ecef2ed)
+# Tải file về giải nén Kiểm Tra cuối kỳ(KiemTraCuoiKy)
+![image](https://github.com/SokKimThanh/QuanLyNhapKhoJTable/assets/20368186/fdf6a9e2-f2f4-4147-934a-33fe8646fb7c) 
+## Các thư mục còn lại tham khảo chức năng đọc ghi file, sắp xếp.
+![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/272a24cb-e3dd-4018-a1a8-3470404d16fc)
 
-
-Chú ý: Phân bổ thời gian để làm được 1 chức năng add rất quan trọng, sau đó hãy copy sao chép hàm add để cho ra chức năng edit và remove thật nhanh để có điểm 6 hoặc hơn với thời gian tối đa là 90 phút của bài thi
+# Chú ý:
+## Phân bổ thời gian để làm được 1 chức năng add rất quan trọng, sau đó hãy copy sao chép hàm add để cho ra chức năng edit và remove thật nhanh để có điểm 6 hoặc hơn với thời gian tối đa là 90 phút của bài thi
 =
-Nội dung video theo thời gian
+## Nội dung video theo thời gian
 =
 - 00:00 Các phần trong đề thi, thứ tự làm bài
 - 04:00 Khởi tạo lớp cơ sở
