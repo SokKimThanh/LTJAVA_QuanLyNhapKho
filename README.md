@@ -1,8 +1,6 @@
-# Quản lý nhập kho JTable (Tài liệu tham khảo)
-# Quản lý nhâp kho Textarea (Tài liệu tham khảo)
-# Quản lý nhập kho theo trạng thái của video
-https://studio.youtube.com/video/ovg21mEmj90/edit
-=
+# Quản lý nhập kho theo trạng thái của video! https://studio.youtube.com/video/ovg21mEmj90/edit
+[image](https://github.com/SokKimThanh/QuanLyNhapKhoJTable/assets/20368186/f28f1485-9ea2-42be-aed7-523b7766d3eb)
+
 Chú ý: Phân bổ thời gian để làm được 1 chức năng add rất quan trọng, sau đó hãy copy sao chép hàm add để cho ra chức năng edit và remove thật nhanh để có điểm 6 hoặc hơn với thời gian tối đa là 90 phút của bài thi
 =
 Nội dung video theo thời gian
