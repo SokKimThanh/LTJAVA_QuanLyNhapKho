@@ -1,5 +1,5 @@
 # Quản lý nhập kho JTable (Tài liệu tham khảo)
-# Quản lý nhâp kho Textaread (Tài liệu tham khảo)
+# Quản lý nhâp kho Textarea (Tài liệu tham khảo)
 # Quản lý nhập kho theo trạng thái của video
 https://studio.youtube.com/video/ovg21mEmj90/edit
 =
