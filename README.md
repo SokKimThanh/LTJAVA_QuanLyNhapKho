@@ -1,6 +1,7 @@
 # Quản lý nhập kho theo trạng thái của video! https://youtu.be/ovg21mEmj90
 
-![image](https://github.com/SokKimThanh/QuanLyNhapKhoJTable/assets/20368186/fdf6a9e2-f2f4-4147-934a-33fe8646fb7c)
+![image](https://github.com/SokKimThanh/QuanLyNhapKhoJTable/assets/20368186/fdf6a9e2-f2f4-4147-934a-33fe8646fb7c) ![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/217a57f7-b4ec-4ddd-b795-b8873ecef2ed)
+
 
 Chú ý: Phân bổ thời gian để làm được 1 chức năng add rất quan trọng, sau đó hãy copy sao chép hàm add để cho ra chức năng edit và remove thật nhanh để có điểm 6 hoặc hơn với thời gian tối đa là 90 phút của bài thi
 =
