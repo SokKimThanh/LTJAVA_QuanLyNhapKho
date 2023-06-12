@@ -1,5 +1,5 @@
 ![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/8c036326-b150-4441-9d10-f16428f756a1)![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/217a57f7-b4ec-4ddd-b795-b8873ecef2ed)
-# Hướng dẫn tải file: Đầu tiên tải file về sau đó giải nén file KiểmTraCuốiKỳ(KiemTraCuoiKy) và có 3 thư mục như sau
+# Hướng dẫn tải file: Đầu tiên tải file KiểmTraCuốiKỳ(KiemTraCuoiKy) về sau đó giải nén file và có 3 thư mục như sau
 ![image](https://github.com/SokKimThanh/QuanLyNhapKhoJTable/assets/20368186/fdf6a9e2-f2f4-4147-934a-33fe8646fb7c) 
 ## Chương trình chạy lên có cấu trúc thư mục hiển thị như sau:
 ![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/a3147c89-a9af-4348-90c6-b80ed270e36e)
