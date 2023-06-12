@@ -1,3 +1,4 @@
+![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/0a1bc3e0-fba8-411b-b12e-522cdef1db0a)
 # Quản lý nhập kho theo trạng thái của video! https://youtu.be/ovg21mEmj90
 ![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/8c036326-b150-4441-9d10-f16428f756a1)
 ![image](https://github.com/SokKimThanh/QuanLyNhapKhoJTable/assets/20368186/fdf6a9e2-f2f4-4147-934a-33fe8646fb7c) ![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/217a57f7-b4ec-4ddd-b795-b8873ecef2ed)
