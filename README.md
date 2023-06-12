@@ -1,9 +1,7 @@
-![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/0a1bc3e0-fba8-411b-b12e-522cdef1db0a)
-# Quản lý nhập kho theo trạng thái của video! https://youtu.be/ovg21mEmj90
 ![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/8c036326-b150-4441-9d10-f16428f756a1)![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/217a57f7-b4ec-4ddd-b795-b8873ecef2ed)
-# Hướng dẫn tải file: Đầu tiên tải file về sau đó giải nén file KiểmTraCuốiKỳ(KiemTraCuoiKy) và chạy chương trình
+# Hướng dẫn tải file: Đầu tiên tải file về sau đó giải nén file KiểmTraCuốiKỳ(KiemTraCuoiKy) và có 3 thư mục như sau
 ![image](https://github.com/SokKimThanh/QuanLyNhapKhoJTable/assets/20368186/fdf6a9e2-f2f4-4147-934a-33fe8646fb7c) 
-## Thư mục hiển thị như sau:
+## Chương trình chạy lên có cấu trúc thư mục hiển thị như sau:
 ![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/a3147c89-a9af-4348-90c6-b80ed270e36e)
 ## Các thư mục còn lại tham khảo chức năng đọc ghi file, sắp xếp.
 ![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/272a24cb-e3dd-4018-a1a8-3470404d16fc)
@@ -11,6 +9,8 @@
 ![447403ad48b399edc0a2](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/e6900bcd-51f1-4310-bf1f-5b6286906acc)
 ![1265f565be7b6f25366a](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/03e006c9-7178-48e4-a357-42acc816754c)
 ![24d233fd78e3a9bdf0f2](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/6676e686-92de-456e-858f-9d5cb756bffe)
+# Quản lý nhập kho theo trạng thái của video! https://youtu.be/ovg21mEmj90
+![image](https://github.com/SokKimThanh/QuanLyNhapKhoTextArea/assets/20368186/0a1bc3e0-fba8-411b-b12e-522cdef1db0a)
 
 # Chú ý:
 ## Phân bổ thời gian để làm được 1 chức năng add rất quan trọng, sau đó hãy copy sao chép hàm add để cho ra chức năng edit và remove thật nhanh để có điểm 6 hoặc hơn với thời gian tối đa là 90 phút của bài thi
