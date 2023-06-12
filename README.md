@@ -1,12 +1,9 @@
 # QuanLyNhapKho
 https://studio.youtube.com/video/ovg21mEmj90/edit
-Chú ý: Phân bổ thời gian để làm được 1 chức năng add rất quan trọng, sau đó hãy copy sao chép hàm add để cho ra chức năng edit và remove thật nhanh để có điểm 6 hoặc hơn với thời gian tối đa là 90 phút của bài thi.
-========================
-Link download file của video: 
-========================
-========================
-Nội dung video theo thời gian
-========================
+Chú ý: Phân bổ thời gian để làm được 1 chức năng add rất quan trọng, sau đó hãy copy sao chép hàm add để cho ra chức năng edit và remove thật nhanh để có điểm 6 hoặc hơn với thời gian tối đa là 90 phút của bài thi
+- ========================
+- Nội dung video theo thời gian
+- ========================
 - 00:00 Các phần trong đề thi, thứ tự làm bài
 - 04:00 Khởi tạo lớp cơ sở
 - 08:00 Tạo Unit Test Constructor, Thành Tiền
